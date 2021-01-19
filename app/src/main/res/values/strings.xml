@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cast Screen</string>
+    <string name="failed_intent">Failed to launch cast screen intent</string>
+</resources>
